@@ -1,1 +1,373 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"title":"Tour eiffel","poi":"Monument","style":"style_eiffel","call-out":"C'est la tour eiffel!","selected":false},"geometry":{"type":"Point","coordinates":[2.2945117950439453,48.85823523708224]}},{"type":"Feature","properties":{"title":"Place du trocadero","poi":"Monument","style":"style_trocadero","call-out":"C'est la place du trocadero!","selected":false},"geometry":{"type":"Point","coordinates":[2.2887182235717773,48.86198329973503]}},{"type":"Feature","properties":{"title":"Musee du Louvre","poi":"Musee","style":"style_louvre","call-out":"C'est le musee du louvre!","selected":false},"geometry":{"type":"Point","coordinates":[2.337644,48.860611]}},{"type":"Feature","properties":{"title":"Arc de triomphe","poi":"Monument","style":"style_triomphe","call-out":"C'est l'arc de triomphe!","selected":false},"geometry":{"type":"Point","coordinates":[2.2950053215026855,48.8737678527832]}},{"type":"Feature","properties":{"title":"Avenue des champs elysees","poi":"Monument","style":"style_champs","call-out":"C'est l'avenue des champs elysees!","selected":false},"geometry":{"type":"Point","coordinates":[2.3112874031066895,48.86857604980469]}},{"type":"Feature","properties":{"title":"Sacre coeur","poi":"Monument","style":"style_sc","call-out":"C'est le sacre coeur!","selected":false},"geometry":{"type":"Point","coordinates":[2.3430275917053223,48.88663101196289]}},{"type":"Feature","properties":{"title":"Musee d'Orsay","poi":"Monument","style":"style_orsay","call-out":"C'est le musee d'orsay!","selected":false},"geometry":{"type":"Point","coordinates":[2.3265828,48.8599179]}},{"type":"Feature","properties":{"title":"Montmartre","poi":"Monument","style":"style_montmartre","call-out":"C'est montmartre!","selected":false},"geometry":{"type":"Point","coordinates":[2.3415715,48.8867054]}},{"type":"Feature","properties":{"title":"Jardin des tuileries","poi":"Jardin","style":"style_tuileries","call-out":"C'est le Jardin des tuileries!","selected":false},"geometry":{"type":"Point","coordinates":[2.3235747814178467,48.864437103271484]}},{"type":"Feature","properties":{"title":"Jardin du Luxembourg","poi":"Jardin","style":"style_luxembourg","call-out":"C'est le Jardin du Luxembourg!","selected":false},"geometry":{"type":"Point","coordinates":[2.336289882659912,48.84659957885742]}},{"type":"Feature","properties":{"title":"Place de la concorde","poi":"Monument","style":"style_concorde","call-out":"C'est la place de la concorde!","selected":false},"geometry":{"type":"Point","coordinates":[2.320983409881592,48.86579895019531]}},{"type":"Feature","properties":{"title":"Hotel des invalides","poi":"Monument","style":"style_invalides","call-out":"C'est l'hotel des invalides!","selected":false},"geometry":{"type":"Point","coordinates":[2.312471866607666,48.85500717163086]}},{"type":"Feature","properties":{"title":"Champ de mars","poi":"Monument","style":"style_mars","call-out":"C'est le champ de mars!","selected":"false"},"geometry":{"type":"Point","coordinates":[2.2978204,48.8561446]}},{"type":"Feature","properties":{"title":"perso_1","poi":"Monument","style":"style_perso","call-out":"test","selected":"false"},"geometry":{"type":"Point","coordinates":[2.254506,48.605319]}},{"type":"Feature","properties":{"title":"perso_2","poi":"Monument","style":"style_perso","call-out":"test","selected":"false"},"geometry":{"type":"Point","coordinates":[2.256039,48.609136]}},{"type":"Feature","properties":{"title":"perso_3","poi":"Monument","style":"style_perso","call-out":"test","selected":"false"},"geometry":{"type":"Point","coordinates":[2.246377,48.608256]}},{"type":"Feature","properties":{"title":"perso_4","poi":"Monument","style":"style_perso","call-out":"test","selected":"false"},"geometry":{"type":"Point","coordinates":[2.25132,48.615123]}},{"type":"Feature","properties":{"title":"perso_5","poi":"Monument","style":"style_perso","call-out":"test","selected":"false"},"geometry":{"type":"Point","coordinates":[2.245639,48.598352]}},{"type":"Feature","properties":{"title":"perso_6","poi":"Monument","style":"style_perso","call-out":"test","selected":"false"},"geometry":{"type":"Point","coordinates":[2.261844,48.617718]}},{"type":"Feature","properties":{"title":"perso_7","poi":"Monument","style":"style_perso","call-out":"test","selected":"false"},"geometry":{"type":"Point","coordinates":[2.255437,48.598465]}},{"type":"Feature","properties":{"title":"perso_8","poi":"Monument","style":"style_perso","call-out":"test","selected":"false"},"geometry":{"type":"Point","coordinates":[2.263167,48.60346]}},{"type":"Feature","properties":{"title":"perso_9","poi":"Monument","style":"style_perso","call-out":"test","selected":"false"},"geometry":{"type":"Point","coordinates":[2.244265,48.623775]}},{"type":"Feature","properties":{"title":"perso_dix","poi":"Monument","style":"style_perso","selected":"false","call-out":"test"},"geometry":{"type":"Point","coordinates":[2.262997,48.607603]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Tour eiffel",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_eiffel",
+        "call-out_guide_touristique": "La tour Eiffel est une tour de fer puddlé de 324 mètres de hauteur, construite en deux ans par Gustave Eiffel et ses collaborateurs pour l’Exposition universelle de Paris de 1889, et initialement nommée « tour de 300 mètres », elle est devenue le symbole de la capitale française et un site touristique de premier plan : il s’agit du troisième site culturel français payant le plus visité en 2015, avec 5,9 millions de visiteurs en 2016. Depuis son ouverture au public, elle a accueilli plus de 300 millions de visiteurs. D’une hauteur de 312 mètres à l’origine, la tour Eiffel est restée le monument le plus élevé du monde pendant quarante ans. Le second niveau du troisième étage, appelé parfois quatrième étage, situé à 279,11 mètres, est la plus haute plateforme d'observation accessible au public de l'Union européenne et la deuxième plus haute d'Europe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29459,
+          48.85822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Place du trocadero",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_trocadero",
+        "call-out_guide_touristique": "Esplanade ouverte, vue sur tour Eiffel. Cette place a été baptisée ainsi en souvenir de la bataille qui s'est déroulée le 31 août 1823, pendant laquelle un corps expéditionnaire français enleva aux mains des révolutionnaires libéraux espagnols le fort du Trocadéro, qui défendait le port de Cadix en Espagne, et rétablit l'autorité du monarque Ferdinand VII.  Le 11-Novembre correspond à l'armistice du 11 novembre 1918 qui marque la fin des combats de la Première Guerre mondiale."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.288718,
+          48.861983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Musee du Louvre",
+        "type_guide_touristique": "Musee",
+        "style_guide_touristique": "style_louvre",
+        "call-out_guide_touristique": "Le musée du Louvre est un musée situé à Paris, en France. Une préfiguration en est imaginée en 1775-1776 par le comte d'Angivillier, directeur général des Bâtiments du roi, comme lieu de présentation des chefs-d'œuvre de la collection de la Couronne. Ce musée n'a été inauguré qu'en 1793 sous l'appellation de Muséum central des arts de la République dans le palais du Louvre, ancienne résidence royale située au centre de Paris, et il est aujourd'hui le plus grand musée d'art et d'antiquités au monde. Sa surface d'exposition est de 72 735 m². Fin 2016, ses collections comprenaient 554 731 œuvres, dont 35 000 exposées et 264 486 œuvres graphiques. Celles-ci présentent l'art occidental du Moyen Âge à 1848, celui des civilisations antiques qui l'ont précédé et influencé, les arts des premiers chrétiens et de l'islam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.337644,
+          48.860611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Arc de triomphe",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_triomphe",
+        "call-out_guide_touristique": "L’arc de triomphe de l’Étoile, souvent appelé simplement l’Arc de triomphe, dont la construction, décidée par l'empereur Napoléon Iᵉʳ, débuta en 1806 et s'acheva en 1836 sous Louis-Philippe, est situé à Paris, dans les 8ᵉ, 16ᵉ, et 17ᵉ arrondissements."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.295005,
+          48.873767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Avenue des champs elysees",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_champs",
+        "call-out_guide_touristique": "C'est l'avenue des champs elysees!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.311287,
+          48.868576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Sacre coeur",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_sc",
+        "call-out_guide_touristique": "La basilique du Sacré-Cœur de Montmartre, dite du Vœu national, située au sommet de la butte Montmartre, dans le quartier de Clignancourt du 18ᵉ arrondissement de Paris, est un édifice religieux parisien majeur, « sanctuaire de l'adoration eucharistique et de la miséricorde divine » et propriété de l'archidiocèse de Paris. La construction de cette église, monument à la fois politique et culturel, suit l'après-guerre de 1870. Elle est déclarée d'utilité publique par une loi votée le 24 juillet 1873 par l'Assemblée nationale de 1871 ; le bâtiment est officiellement achevé en 1923. Elle s'inscrit dans le contexte de recharge sacrale et dans le cadre d'un nouvel « ordre moral » faisant suite aux événements de la Commune de Paris, dont Montmartre fut un des hauts lieux."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.343027,
+          48.886631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Musee d'Orsay",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_orsay",
+        "call-out_guide_touristique": "Le musée d’Orsay est un musée national inauguré en 1986, situé dans le 7ᵉ arrondissement de Paris le long de la rive gauche de la Seine. Il est installé dans l’ancienne gare d'Orsay, construite par Victor Laloux de 1898 à 1900 et réaménagée en musée sur décision du Président de la République Valéry Giscard d'Estaing. Ses collections présentent l’art occidental de 1848 à 1914, dans toute sa diversité : peinture, sculpture, arts décoratifs, art graphique, photographie, architecture, etc. Il est l’un des plus grands musées d’Europe pour cette période. Le musée possède la plus importante collection de peintures impressionnistes et postimpressionnistes au monde, avec près de 1 100 toiles au total sur plus de 3 650."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3265828,
+          48.8599179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Montmartre",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_montmartre",
+        "call-out_guide_touristique": "Montmartre est un quartier de Paris dominé par la basilique du Sacré-Cœur. Depuis le XIXᵉ siècle, il accueille de nombreux artistes tels que Picasso ou Modigliani et devient le symbole d'un mode de vie bohème. Jusqu'en 1860, Montmartre est une commune du département de la Seine. Cette année-là, en vertu de la loi d'extension de la capitale, la commune est annexée par Paris à l’exception d’une petite partie qui est attribuée à la commune de Saint-Ouen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3415715,
+          48.8867054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Jardin des tuileries",
+        "type_guide_touristique": "Jardin",
+        "style_guide_touristique": "style_tuileries",
+        "call-out_guide_touristique": "Le jardin des Tuileries, parfois appelé jardins des Tuileries au pluriel, est un parc parisien du 1ᵉʳ arrondissement créé au XVIᵉ siècle, à l'emplacement d'anciennes tuileries qui lui ont donné son nom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.323574,
+          48.864437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Jardin du Luxembourg",
+        "type_guide_touristique": "Jardin",
+        "style_guide_touristique": "style_luxembourg",
+        "call-out_guide_touristique": "Le jardin du Luxembourg est un jardin ouvert au public, situé dans le 6ᵉ arrondissement de Paris. Créé en 1612 à la demande de Marie de Médicis pour accompagner le palais du Luxembourg, il a fait l'objet d'une restauration dirigée par l'architecte Jean-François-Thérèse Chalgrin sous le Premier Empire et appartient désormais au domaine du Sénat. Il s'étend sur 23 hectares agrémentés de parterres de fleurs et de sculptures. Rendez-vous de prédilection des Parisiens, il attire également des visiteurs du monde entier."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.336289,
+          48.846599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Place de la concorde",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_concorde",
+        "call-out_guide_touristique": "La place de la Concorde, avec 8,64 hectares, est la plus grande place de Paris. Le nom aurait été choisi par le Directoire pour marquer la réconciliation des Français après les excès de la Terreur."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.320983,
+          48.865798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Hôtel des invalides",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_invalides",
+        "call-out_guide_touristique": "L’hôtel des Invalides est un monument parisien dont la construction fut ordonnée par Louis XIV par l'édit royal du 24 février 1670, pour abriter les invalides de ses armées. Aujourd'hui, il accueille toujours des invalides, mais également la cathédrale Saint-Louis des Invalides, plusieurs musées et une nécropole militaire avec notamment le tombeau de Napoléon Iᵉʳ. C'est aussi le siège de hautes autorités militaires, comme le gouverneur militaire de Paris et rassemble beaucoup d'organismes dédiés à la mémoire des anciens combattants ou le soutien aux soldats blessés. Cet immense complexe architectural, conçu par Libéral Bruand et Jules Hardouin-Mansart, est un des chefs-d’œuvre les plus importants de l'architecture classique française."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.312471,
+          48.855007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Champ de mars",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_mars",
+        "call-out_guide_touristique": "Le Champ-de-Mars est un vaste jardin public, entièrement ouvert et situé à Paris dans le 7ᵉ arrondissement, entre la tour Eiffel au nord-ouest et l'École militaire au sud-est. Avec ses 24,5 ha, le jardin du Champ-de-Mars est l'un des plus grands espaces verts de Paris. Riche d'une histoire bicentenaire, le Champ-de-Mars accueille les Parisiens et les touristes toute l'année autour d'un vaste ensemble d'activités."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2978204,
+          48.8561446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "La Grande Muraille de Chine",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "Construite pour que chaque royaume se protège des invasions barbares, la Grande muraille a nécessité le concours de centaine de milliers d’ouvriers et 180 millions de mètres cubes de terre. Elle mesure 6,700 km et elle est, de fait, la plus grande construction humaine jamais réalisée à ce jour."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254506,
+          48.605319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "L’Opéra de Sydney",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "Son succès est surement dû à son architecture unique et spectaculaire : des énormes coquilles entrelacées et couvertes de plus d’1 millions de tuiles de céramiques blanches, et soutenues par 580 piliers de béton qui sont ancrés à 25 mètres de profondeur sous la mer."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.256039,
+          48.609136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Taj Mahal",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.246377,
+          48.608256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "L’Acropole d’Athènes",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25132,
+          48.615123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Sphinx de Gizeh",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.245639,
+          48.598352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Statue de la Liberté",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.261844,
+          48.617718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Colisée",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.255437,
+          48.598465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Chichén Itzá",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.263167,
+          48.60346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "La Cité Interdite",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.244265,
+          48.623775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titre_guide_touristique": "Fontaine de Trevi",
+        "type_guide_touristique": "Monument",
+        "style_guide_touristique": "style_perso",
+        "call-out_guide_touristique": "test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.262997,
+          48.607603
+        ]
+      }
+    }
+  ]
+}
