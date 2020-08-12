@@ -37,7 +37,7 @@
       "type": "Feature",
       "properties": {
         "titre_guide_touristique": "Musee du Louvre",
-        "type_guide_touristique": "Musee",
+        "type_guide_touristique": "Musée",
         "style_guide_touristique": "style_louvre",
         "call-out_guide_touristique": "Le musée du Louvre est un musée situé à Paris, en France. Une préfiguration en est imaginée en 1775-1776 par le comte d'Angivillier, directeur général des Bâtiments du roi, comme lieu de présentation des chefs-d'œuvre de la collection de la Couronne. Ce musée n'a été inauguré qu'en 1793 sous l'appellation de Muséum central des arts de la République dans le palais du Louvre, ancienne résidence royale située au centre de Paris, et il est aujourd'hui le plus grand musée d'art et d'antiquités au monde. Sa surface d'exposition est de 72 735 m². Fin 2016, ses collections comprenaient 554 731 œuvres, dont 35 000 exposées et 264 486 œuvres graphiques. Celles-ci présentent l'art occidental du Moyen Âge à 1848, celui des civilisations antiques qui l'ont précédé et influencé, les arts des premiers chrétiens et de l'islam."
       },
@@ -69,7 +69,7 @@
       "type": "Feature",
       "properties": {
         "titre_guide_touristique": "Avenue des champs elysees",
-        "type_guide_touristique": "Monument",
+        "type_guide_touristique": "Promenade",
         "style_guide_touristique": "style_champs",
         "call-out_guide_touristique": "C'est l'avenue des champs elysees!"
       },
@@ -101,7 +101,7 @@
       "type": "Feature",
       "properties": {
         "titre_guide_touristique": "Musee d'Orsay",
-        "type_guide_touristique": "Monument",
+        "type_guide_touristique": "Musée",
         "style_guide_touristique": "style_orsay",
         "call-out_guide_touristique": "Le musée d’Orsay est un musée national inauguré en 1986, situé dans le 7ᵉ arrondissement de Paris le long de la rive gauche de la Seine. Il est installé dans l’ancienne gare d'Orsay, construite par Victor Laloux de 1898 à 1900 et réaménagée en musée sur décision du Président de la République Valéry Giscard d'Estaing. Ses collections présentent l’art occidental de 1848 à 1914, dans toute sa diversité : peinture, sculpture, arts décoratifs, art graphique, photographie, architecture, etc. Il est l’un des plus grands musées d’Europe pour cette période. Le musée possède la plus importante collection de peintures impressionnistes et postimpressionnistes au monde, avec près de 1 100 toiles au total sur plus de 3 650."
       },
@@ -197,7 +197,7 @@
       "type": "Feature",
       "properties": {
         "titre_guide_touristique": "Champ de mars",
-        "type_guide_touristique": "Monument",
+        "type_guide_touristique": "Jardin",
         "style_guide_touristique": "style_mars",
         "call-out_guide_touristique": "Le Champ-de-Mars est un vaste jardin public, entièrement ouvert et situé à Paris dans le 7ᵉ arrondissement, entre la tour Eiffel au nord-ouest et l'École militaire au sud-est. Avec ses 24,5 ha, le jardin du Champ-de-Mars est l'un des plus grands espaces verts de Paris. Riche d'une histoire bicentenaire, le Champ-de-Mars accueille les Parisiens et les touristes toute l'année autour d'un vaste ensemble d'activités."
       },
@@ -214,7 +214,7 @@
       "properties": {
         "titre_guide_touristique": "La Grande Muraille de Chine",
         "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
+        "style_guide_touristique": "style_muraille",
         "call-out_guide_touristique": "Construite pour que chaque royaume se protège des invasions barbares, la Grande muraille a nécessité le concours de centaine de milliers d’ouvriers et 180 millions de mètres cubes de terre. Elle mesure 6,700 km et elle est, de fait, la plus grande construction humaine jamais réalisée à ce jour."
       },
       "geometry": {
@@ -229,8 +229,8 @@
       "type": "Feature",
       "properties": {
         "titre_guide_touristique": "L’Opéra de Sydney",
-        "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
+        "type_guide_touristique": "Opéra",
+        "style_guide_touristique": "style_operasydney",
         "call-out_guide_touristique": "Son succès est surement dû à son architecture unique et spectaculaire : des énormes coquilles entrelacées et couvertes de plus d’1 millions de tuiles de céramiques blanches, et soutenues par 580 piliers de béton qui sont ancrés à 25 mètres de profondeur sous la mer."
       },
       "geometry": {
@@ -246,8 +246,8 @@
       "properties": {
         "titre_guide_touristique": "Taj Mahal",
         "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
-        "call-out_guide_touristique": "test"
+        "style_guide_touristique": "style_taj",
+        "call-out_guide_touristique": "Le Taj Mahal est situé à Agra, au bord de la rivière Yamuna, dans l'État de l'Uttar Pradesh, en Inde1. C'est un mausolée de marbre blanc construit par l'empereur moghol musulman Shâh Jahân en mémoire de son épouse Arjumand Bânu Begam, aussi connue sous le nom de Mumtaz Mahal, qui signifie en persan « la lumière du palais ». Elle meurt le 17 juin 1631 en donnant naissance à leur quatorzième enfant alors qu'elle accompagnait son mari pendant une campagne militaire. Elle trouve une première sépulture sur place dans le jardin Zainabad à Burhanpur. La construction du mausolée commence en 1631 et est achevée dans sa plus grande partie en 16483. Son époux, mort le 31 janvier 1666, est inhumé auprès d'elle.  Le Taj Mahal est considéré comme un joyau de l'architecture moghole, un style qui combine des éléments architecturaux des architectures islamique, iranienne, ottomane et indienne."
       },
       "geometry": {
         "type": "Point",
@@ -262,8 +262,8 @@
       "properties": {
         "titre_guide_touristique": "L’Acropole d’Athènes",
         "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
-        "call-out_guide_touristique": "test"
+        "style_guide_touristique": "style_acropole",
+        "call-out_guide_touristique": "L’acropole d'Athènes est un plateau rocheux calcaire s'élevant au centre de la ville d'Athènes à laquelle elle a longtemps servi de citadelle, de l'Athènes antique à l'occupation ottomane, ainsi que de sanctuaire religieux durant l'Antiquité. Inscrite au patrimoine mondial de l'UNESCO, l'Acropole est actuellement un des sites touristiques les plus visités du monde.  La colline s'élève à 156 mètres. Sa partie plate s'étend sur un peu moins de 300 mètres d'est en ouest et 85 mètres du nord au sud dans son état naturel, mais les travaux du ve siècle av. J.-C. l'ont élargie jusqu'à près de 150 mètres. L'Acropole n'est accessible que par le côté ouest.  Le plateau a d'abord été utilisé comme habitat, puis comme forteresse, avant de devenir, au cours de l'époque archaïque, puis de l'époque classique, un grand sanctuaire principalement consacré au culte d'Athéna, comprenant plusieurs temples, dont le Parthénon, l'Érechthéion et le temple d'Athéna Nikè. Les autres monuments remarquables de l'Acropole sont les Propylées, le théâtre de Dionysos, l'odéon d'Hérode Atticus."
       },
       "geometry": {
         "type": "Point",
@@ -278,8 +278,8 @@
       "properties": {
         "titre_guide_touristique": "Sphinx de Gizeh",
         "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
-        "call-out_guide_touristique": "test"
+        "style_guide_touristique": "style_gizeh",
+        "call-out_guide_touristique": "Le Sphinx de Gizeh est la statue thérianthrope qui se dresse devant les grandes pyramides du plateau de Gizeh, en Basse-Égypte. Sculpture monumentale monolithique la plus grande du monde avec 73,5 mètres de longueur, 14 mètres de largeur et 20,22 mètres de hauteur, elle représente un sphinx couchant. Réalisée vers -2500, elle serait attribuée - suivant le consensus de la communauté scientifique internationale - à Khéphren, l'un des pharaons de la IVe dynastie de l'Ancien Empire, voire à son père, Khéops."
       },
       "geometry": {
         "type": "Point",
@@ -292,10 +292,10 @@
     {
       "type": "Feature",
       "properties": {
-        "titre_guide_touristique": "Statue de la Liberté",
+        "titre_guide_touristique": "Rocher de Sigiriya",
         "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
-        "call-out_guide_touristique": "test"
+        "style_guide_touristique": "style_sigiriya",
+        "call-out_guide_touristique": "Sigirîya – appelé aussi Simhagîri, rocher du lion – est un site archéologique majeur, ancienne capitale royale du Sri Lanka et un site touristique important. Le site est classé au patrimoine mondial de l'humanité par l'UNESCO et se situe dans le centre du pays à 160 kilomètres de Colombo. Avant les aménagements de Kassapa, le site avait déjà été occupé comme le montrent des graffiti retrouvés dans une grotte, ainsi que le bouddha couché de treize mètres datant du IIe siècle av. J.-C."
       },
       "geometry": {
         "type": "Point",
@@ -310,8 +310,8 @@
       "properties": {
         "titre_guide_touristique": "Colisée",
         "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
-        "call-out_guide_touristique": "test"
+        "style_guide_touristique": "style_colisee",
+        "call-out_guide_touristique": "Le Colisée, à l'origine amphithéâtre Flavien (Colosseo en italien), est un immense amphithéâtre ovoïde situé dans le centre de la ville de Rome, entre l'Esquilin et le Cælius, le plus grand jamais construit dans l'Empire romain. Il est l'une des plus grandes œuvres de l'architecture et de l'ingénierie romaines."
       },
       "geometry": {
         "type": "Point",
@@ -326,8 +326,8 @@
       "properties": {
         "titre_guide_touristique": "Chichén Itzá",
         "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
-        "call-out_guide_touristique": "test"
+        "style_guide_touristique": "style_chichen",
+        "call-out_guide_touristique": "Chichén Itzá est une ancienne ville maya située entre Valladolid et Mérida dans la péninsule du Yucatán, au Mexique. Chichén Itzá fut probablement, au xe siècle, le principal centre religieux du Yucatán ; il reste aujourd’hui l’un des sites archéologiques les plus importants et les plus visités de la région. Le site a été classé au patrimoine mondial de l'UNESCO en 1988, et a été élu, le 7 juillet 2007, comme l'une des sept nouvelles merveilles du monde après un vote controversé organisé par la New Seven Wonders Foundation."
       },
       "geometry": {
         "type": "Point",
@@ -341,9 +341,9 @@
       "type": "Feature",
       "properties": {
         "titre_guide_touristique": "La Cité Interdite",
-        "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
-        "call-out_guide_touristique": "test"
+        "type_guide_touristique": "Musée",
+        "style_guide_touristique": "style_interdite",
+        "call-out_guide_touristique": "La Cité interdite, généralement appelé par les Chinois le palais ancien, également appelé musée du palais est le palais impérial au sein de la Cité impériale de Pékin dont la construction fut ordonnée par Yongle, troisième empereur de la dynastie Ming, et réalisée entre 1406 et 1420. Ce palais, d'une envergure inégalée — il s'étend sur une superficie de 72 hectares — fait partie des palais les plus anciens et les mieux conservés de Chine. De nos jours, il est devenu un musée, le musée du palais, qui conserve les trésors impériaux de la civilisation chinoise ancienne et de très nombreuses œuvres d'art chinois de première importance : peintures, bronzes, céramiques, instruments de musique, laques, etc."
       },
       "geometry": {
         "type": "Point",
@@ -357,9 +357,9 @@
       "type": "Feature",
       "properties": {
         "titre_guide_touristique": "Fontaine de Trevi",
-        "type_guide_touristique": "Monument",
-        "style_guide_touristique": "style_perso",
-        "call-out_guide_touristique": "test"
+        "type_guide_touristique": "Fontaine",
+        "style_guide_touristique": "style_trevi",
+        "call-out_guide_touristique": "La fontaine de Trevi (fontana di Trevi) est la plus grande et une des plus célèbres fontaines de Rome. Réalisée entre 1732 et 1762, elle est située dans le rione de Trevi, sur la Piazza di Trevi, et est adossée au palais Poli.  La fontaine de Trevi est un exemple de la perpétuation du style baroque dans la Rome du XVIIIe siècle, par son mélange des effets (elle joue à la fois sur l'architecture, la sculpture et le son), sa monumentalité (elle est structurée par quatre colonnes d'ordre colossal) et sa référence à la fontaine des Quatre-Fleuves de la piazza Navona par Le Bernin."
       },
       "geometry": {
         "type": "Point",
